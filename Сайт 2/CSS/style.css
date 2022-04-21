@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@400;700&display=swap');
+
+*,*::before,*:after{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    font-family: 'Exo 2', sans-serif;
+}
+
+.container{
+    width: 1919px;
+    margin: 0 auto;
+}
